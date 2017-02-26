@@ -1,0 +1,12 @@
+{
+    "name": "ashish_rampal/ar-login",
+    "authors": [
+        {
+            "name": "ashishrampal-tkd",
+            "email": "ashishrampal.tkd@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/Medoo": "^1.2"
+    }
+}
